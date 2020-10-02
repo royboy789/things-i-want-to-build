@@ -2,6 +2,10 @@
 
 This is just an idea dump, feel free to brainstorm how to make any of these ideas better. Some ideas may already exist, just haven't researched
 
+### Open Source Ideas & Solutions
+If you are building something on this list, or know of a solve already in existance. send me a link.  
+If you are actively building anything, let me know how I can help with the code.
+
 ## WordPress Unified UI
 
 A JS and/or PHP library that allows developers to build UI code one time. 
