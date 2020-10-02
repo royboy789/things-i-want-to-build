@@ -16,6 +16,19 @@ Package would take configuration and generate blocks/widgets for:
 
 Leveraging [WPGraphQL](https://github.com/wp-graphql/wp-graphql) create a lib that helps generate custom queries, mutations, etc.
 
+Taking inspiration from [WarAPI](https://github.com/SkyPressATX/war-api) by [SkyPressATX](https://github.com/SkyPressATX) ease of building out REST API endpoints.
+
 ### Features:
 
 - An easy way to config external REST [Apollo Example](https://github.com/wp-graphql/wp-graphql) and feeding into WP through WPGraphQL
+
+
+## Headless Woo Stuff
+
+more flushed out ideas coming...
+
+## Gutes Object Plugin
+
+Existing Project that brings Gutenberg data into REST, needs lots of improvement in JS and PHP.
+
+[https://github.com/royboy789/gutenberg-object-plugin](https://github.com/royboy789/gutenberg-object-plugin)
