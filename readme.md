@@ -52,3 +52,11 @@ Build something that first builds the data models and schema, then builds the te
 - Data Interfaces
 - Tests
 - Application Code
+
+## Content Insight / AI
+
+A tool that takes as much data as possible from every post, then compares that with engagement and analytics 
+
+- Determine why content is the most popular
+- Add in WooCommerce converstion data into the mix (which content produces the most sales)
+- Track compare keywords of content being created with news articles in similar keywords to see how trends in the real world can affect engagement or skew data
